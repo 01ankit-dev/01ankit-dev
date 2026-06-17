@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Senior Software Engineer · .NET / C# · AI Integration · Remote-first</b><br/>
-  Building distributed systems and AI-powered backends from Visakhapatnam 🇮🇳
+  Building distributed systems and AI-powered backends
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 🔭 Currently building **[When I'm Gone](https://github.com/ap-dev/when-im-gone)** — Digital Legacy Vault
 - 🌱 Deep-diving: **Kubernetes · RAG · Multi-Agent Systems · MCP Servers**
 - 💬 Ask me about: `.NET Core · Clean Architecture · Distributed Systems`
-- 📫 Reach me: `ap@email.com`
+- 📫 Reach me: `01ankitpawar@gmail.com`
 - ⚡ Fun fact: I built a real-life battle royale arena with ESP32 and IR sensors
 
 ---
